@@ -1,0 +1,90 @@
+E:\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+E:\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+E:\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+E:\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+E:\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.deps.json
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.BLL.pdb
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.AssemblyReference.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfoInputs.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.AssemblyInfo.cs
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CoreCompileInputs.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.csproj.CopyComplete
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\refint\CLOUD.BLL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\CLOUD.BLL.pdb
+E:\ProjectsERP\CLOUD.API\CLOUD.BLL\obj\Debug\net6.0\ref\CLOUD.BLL.dll

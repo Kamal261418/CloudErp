@@ -1,0 +1,84 @@
+E:\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+E:\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+E:\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+E:\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+C:\Users\elfik\OneDrive\Desktop\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+C:\Users\hp\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+E:\Projects-ASP.Net MVC&Web APIS\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+C:\Users\NSDIC\Downloads\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.deps.json
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.runtimeconfig.json
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\bin\Debug\net6.0\CLOUD.DAL.pdb
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.AssemblyReference.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfoInputs.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.AssemblyInfo.cs
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.csproj.CoreCompileInputs.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\refint\CLOUD.DAL.dll
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.pdb
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\CLOUD.DAL.genruntimeconfig.cache
+E:\ProjectsERP\CLOUD.API\CLOUD.DAL\obj\Debug\net6.0\ref\CLOUD.DAL.dll
